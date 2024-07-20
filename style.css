@@ -1,6 +1,6 @@
 #outside {
     z-index: 1;
-    margin: 50% 50% 50% 50%;
+    margin: 0 0 0 0;
     position: absolute;
     background-color: lightyellow;
     width: 50%;
@@ -38,7 +38,7 @@
     z-index: 0;
     position: absolute;
     background-color: lightyellow;
-    margin: 50% 50% 50% 50%;  
+    margin: 0 0 0 0;  
     width: 50%;
     height: 50%;
     text-align: center;
